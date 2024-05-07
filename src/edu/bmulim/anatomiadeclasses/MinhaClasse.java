@@ -1,7 +1,10 @@
 package edu.bmulim.anatomiadeclasses;
 public class MinhaClasse {
     public static void main(String[] args) {
-       String meuNome = "Bruno";
+       
+        //padrões de  nomeação de variáveis
+
+        String meuNome = "Bruno";
 
        int anoFabricacao = 2022;
 
@@ -20,5 +23,7 @@ public class MinhaClasse {
 
     public static String nomeCompleto(String prmeiroNome, String segundoNome){
         return "Resultado do método: " + prmeiroNome.concat(" ").concat(segundoNome);
+
+        /* no return acima é possivel ver duas formade concatenação */
     }
 }
