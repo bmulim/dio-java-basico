@@ -13,3 +13,4 @@
 ### OPERADORES
     - Aritiméticos
     - Unários
+    - Ternário

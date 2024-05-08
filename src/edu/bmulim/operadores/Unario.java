@@ -19,6 +19,19 @@ public class Unario {
             numero = numero * (-1);
 
             //o sinal de + vai ser lido com operador de adição em JAVA, tendo entao que realizar uma operação matemática
+
+
+        //booleanos
+
+        boolean variavel = true;
+
+        System.out.println(!variavel);
+
+        System.out.println(variavel);
+
+        variavel = !variavel;
+
+        System.out.println(variavel);
         
     }
 }
