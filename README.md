@@ -1,23 +1,22 @@
-## Dio - Java Basico
+# Dio - Java Basico
 
-### ANATOMIA DE CLASSES
+- ANATOMIA DE CLASSES
 
     - Convenções de definição de classes, variáveis e métodos.
     - Organização de arquivos, criação e distribuição de pacotes e conveção de nomenclatura (Java Beans)
 
-### TIPO E VARIÁVEIS
+- TIPO E VARIÁVEIS
 
     - Numéricos, texto e lógicos
     - Variáveis e constantes
 
-### OPERADORES
+- OPERADORES
     - Aritiméticos
     - Unários
     - Ternário
     - Relacionais
     - Lógicos
 
-### Métodos
+- MÉTODOS
     - O que sao e como nomear.
-    - Exercício prático 
-    [Excercício](https://github.com/bmulim/sistema-smarttv)
+    - Exercício prático - [Repositório ](https://github.com/bmulim/sistema-smarttv)
