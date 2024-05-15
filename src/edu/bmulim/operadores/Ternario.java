@@ -12,7 +12,7 @@ public class Ternario {
 
         String resultado = "";
 
-        if(a==b)
+        if(a!=b)
             resultado = "verdadeiro";
         else
             resultado = "falso";
@@ -22,7 +22,7 @@ public class Ternario {
 
         /*---------------------- */
 
-        String acertiva = a==b ? "verdadeiro" : "falso";
+        String acertiva = a!=b ? "verdadeiro" : "falso";
 
         System.out.println(acertiva);
 

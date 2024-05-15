@@ -14,3 +14,8 @@
     - Aritiméticos
     - Unários
     - Ternário
+    - Relacionais
+    - Lógicos
+
+### Métodos
+    - 
