@@ -18,4 +18,5 @@
     - Lógicos
 
 ### Métodos
-    - 
+    - O que sao e como nomear.
+    - Exercício prático [Excercício](https://github.com/bmulim/sistema-smarttv)
