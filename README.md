@@ -7,8 +7,8 @@
 
 ### TIPO E VARIÁVEIS
 
-    - numéricos, texto e lógicos
-    - variáveis e constantes
+    - Numéricos, texto e lógicos
+    - Variáveis e constantes
 
 ### OPERADORES
     - Aritiméticos
