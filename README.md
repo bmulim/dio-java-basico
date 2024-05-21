@@ -1,4 +1,4 @@
-# Dio - Java Basico
+# Dio - Java Básico
 
 - ANATOMIA DE CLASSES
 
@@ -20,3 +20,8 @@
 - MÉTODOS
     - O que sao e como nomear.
     - Exercício prático - [Repositório ](https://github.com/bmulim/sistema-smarttv)
+
+- ESCOPO
+- DOCUMENTAÇÃO
+- TERMINAL
+
