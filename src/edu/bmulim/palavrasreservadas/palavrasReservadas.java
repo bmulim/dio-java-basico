@@ -1,6 +1,6 @@
 package edu.bmulim.palavrasreservadas;
 
-public class palavrasReservadas1 {
+public class palavrasReservadas {
     /*
         Palavras reservadas, são identificadores de uma linguagem que já possuem uma finalidade específica, portanto, não podem ser utilizados para nomear variáveis, classes, métodos ou atributos.
 
